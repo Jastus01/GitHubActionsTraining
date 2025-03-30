@@ -1,5 +1,8 @@
 name: "first_udemy_workflow"
 on: workflow_dispatch
 Jobs:
-  first_job: 
+  first_job:
+    runs-on: ubuntu-latest
+    steps:
+      
     
