@@ -1,4 +1,4 @@
-name: Python application
+name: Python application syntax check
 
 on: [push]
 
