@@ -7,8 +7,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: check out thed code
-      uses: actions/chreckout@v2
+    - name: check out the code
+      uses: actions/checkout@v2
 
 
 
