@@ -5,6 +5,6 @@ class Greeting:
     def say_hello(self):
         print(f"Hello, {self.name}")
 
-greeting = Greeting("John")
+greeting = Greeting("Dominic")
 
 greeting.say_hello()
