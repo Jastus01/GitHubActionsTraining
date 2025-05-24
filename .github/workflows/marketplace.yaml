@@ -1,0 +1,25 @@
+name: Python application
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: check out thed code
+      uses: actions/chreckout@v2
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
